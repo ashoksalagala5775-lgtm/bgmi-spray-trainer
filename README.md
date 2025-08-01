@@ -1,1 +1,1 @@
-# Bgmi-Bullet-Trackers
+# bgmi-spray-trainer
